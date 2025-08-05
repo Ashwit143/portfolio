@@ -1,1 +1,2 @@
-# portfolio
+Portfolio 
+A portfolio of myself 
