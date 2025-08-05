@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    text-align: center;
+}
+
+body {
+    background-color: #fdf0d5;
+}
+p {
+    margin: 1rem;
+    font-size: 30px;
+}
+
+.info {
+    height: auto;
+    width: 30vw;
+    padding: 2rem;
+    position: relative;
+    left: 30vw;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px black;
+    background-color: rgba(18, 121, 173, 0.5);
+    font-size: 30px;
+}
+
+.buttons {
+    margin-bottom: 5rem;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(2, 48, 71, 0.75);
+    padding: 2rem;
+}
+
+button {
+    display: inline;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: rgba(69, 136, 199, 0.56);
+    box-shadow: 2px 2px 5px black;
+}
+
+button:hover {
+    background-color: rgb(69, 136, 199);
+    cursor: pointer;
+}
+
+.aboutMe {
+    display: none;
+}
+
+.achievements {
+    display: none;
+}
+
+.achievement {
+    height: auto;
+    width: 30vw;
+    background-color: rgba(18, 121, 173, 0.5);
+}
+
+.education {
+    display: none;
+}
+
+.skills {
+    display: none;
+}
+
+.projects {
+    display: none;
+}
